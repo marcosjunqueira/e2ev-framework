@@ -22,7 +22,7 @@ O sistema é um framework de **Votação Verificável de Ponta a Ponta (E2E-V)**
 
 ### 2.4. Portal de Auditoria Cidadã
 - **Função**: Interface pública para conferência de hashes e totalização paralela.
-- **Recursos**: Download da Blockchain, scripts de auditoria Open Source e verificação de recibos deniáveis.
+- **Recursos**: Download do Merkle Audit Ledger, scripts de auditoria Open Source e verificação de recibos deniáveis.
 
 ## 3. O Fluxo do Voto (Life Cycle)
 
